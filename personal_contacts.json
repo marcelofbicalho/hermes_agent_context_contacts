@@ -239,8 +239,8 @@
     "guidelines": "Responda de forma prestativa.",
     "last_interaction": 1782836982.2792735
   },
-  "249443563647051@lid": {
-    "name": "Contato 249443563647051",
+  "179225394987251@lid": {
+    "name": "Contato 179225394987251",
     "relationship": "Cliente",
     "manual_relationship": null,
     "notes": null,
@@ -253,6 +253,6 @@
     "intent": "Contato inicial.",
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782836999.3902602
+    "last_interaction": 1782836999.3873668
   }
 }
