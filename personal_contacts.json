@@ -510,5 +510,21 @@
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
     "last_interaction": 1782837108.6821773
+  },
+  "55151775768717@lid": {
+    "name": "Contato 55151775768717",
+    "relationship": "Cliente",
+    "manual_relationship": null,
+    "notes": null,
+    "product": null,
+    "tone": "polido e profissional",
+    "nickname": null,
+    "pet_name": null,
+    "frequent_greeting": null,
+    "summary": "Conversa muito curta.",
+    "intent": "Contato inicial.",
+    "frequency": "esporádica",
+    "guidelines": "Responda de forma prestativa.",
+    "last_interaction": 1782837116.6228378
   }
 }
