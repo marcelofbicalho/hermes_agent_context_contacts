@@ -142,21 +142,5 @@
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
     "last_interaction": 1782836952.641475
-  },
-  "7615144841261@lid": {
-    "name": "Contato 7615144841261",
-    "relationship": "Cliente",
-    "manual_relationship": null,
-    "notes": null,
-    "product": null,
-    "tone": "polido e profissional",
-    "nickname": null,
-    "pet_name": null,
-    "frequent_greeting": null,
-    "summary": "Conversa muito curta.",
-    "intent": "Contato inicial.",
-    "frequency": "esporádica",
-    "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782836953.074534
   }
 }
