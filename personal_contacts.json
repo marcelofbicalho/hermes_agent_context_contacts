@@ -77,7 +77,7 @@
     "intent": "Contato inicial.",
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782837090.325511
+    "last_interaction": 1782837087.3405359
   },
   "191396694761595@lid": {
     "name": "Contato 191396694761595",
@@ -301,7 +301,7 @@
     "intent": "Contato inicial.",
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782837091.4681993
+    "last_interaction": 1782837036.3956034
   },
   "51909142528012@lid": {
     "name": "Contato 51909142528012",
@@ -398,37 +398,5 @@
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
     "last_interaction": 1782837084.3623326
-  },
-  "226714328285413@lid": {
-    "name": "Contato 226714328285413",
-    "relationship": "Cliente",
-    "manual_relationship": null,
-    "notes": null,
-    "product": null,
-    "tone": "polido e profissional",
-    "nickname": null,
-    "pet_name": null,
-    "frequent_greeting": null,
-    "summary": "Conversa muito curta.",
-    "intent": "Contato inicial.",
-    "frequency": "esporádica",
-    "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782837090.9342554
-  },
-  "247330137722954@lid": {
-    "name": "Contato 247330137722954",
-    "relationship": "Cliente",
-    "manual_relationship": null,
-    "notes": null,
-    "product": null,
-    "tone": "polido e profissional",
-    "nickname": null,
-    "pet_name": null,
-    "frequent_greeting": null,
-    "summary": "Conversa muito curta.",
-    "intent": "Contato inicial.",
-    "frequency": "esporádica",
-    "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782837091.614178
   }
 }
