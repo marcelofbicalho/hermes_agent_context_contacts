@@ -1,0 +1,2 @@
+# hermes_agent_context_contacts
+Hermes Configuration Repository
