@@ -77,7 +77,7 @@
     "intent": "Contato inicial.",
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782837090.325511
+    "last_interaction": 1782949927.0901911
   },
   "191396694761595@lid": {
     "name": "Contato 191396694761595",
@@ -686,5 +686,21 @@
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
     "last_interaction": 1782949925.7424881
+  },
+  "256512744251398@lid": {
+    "name": "Contato 256512744251398",
+    "relationship": "Cliente",
+    "manual_relationship": null,
+    "notes": null,
+    "product": null,
+    "tone": "polido e profissional",
+    "nickname": null,
+    "pet_name": null,
+    "frequent_greeting": null,
+    "summary": "Conversa muito curta.",
+    "intent": "Contato inicial.",
+    "frequency": "esporádica",
+    "guidelines": "Responda de forma prestativa.",
+    "last_interaction": 1782949926.4863753
   }
 }
