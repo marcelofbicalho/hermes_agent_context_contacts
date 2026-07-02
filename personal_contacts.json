@@ -65,19 +65,19 @@
   },
   "17721068642340@lid": {
     "name": "Contato 17721068642340",
-    "relationship": "Cliente",
+    "relationship": "Amigo",
     "manual_relationship": null,
     "notes": null,
     "product": null,
-    "tone": "polido e profissional",
+    "tone": "informal e amigável",
     "nickname": null,
     "pet_name": null,
-    "frequent_greeting": null,
-    "summary": "Conversa muito curta.",
-    "intent": "Contato inicial.",
+    "frequent_greeting": "Opa",
+    "summary": "Troca de informações sobre reuniões e alinhamentos de trabalho.",
+    "intent": "Confirmação de recebimento de link para reunião semanal.",
     "frequency": "esporádica",
-    "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782837090.325511
+    "guidelines": "Mantenha um tom profissional, porém leve e casual, focado em alinhamentos de trabalho e produtividade. Responda de forma direta e colaborativa.",
+    "last_interaction": 1782954734.0923846
   },
   "191396694761595@lid": {
     "name": "Contato 191396694761595",
@@ -297,11 +297,11 @@
     "nickname": null,
     "pet_name": null,
     "frequent_greeting": null,
-    "summary": "Conversa muito curta.",
-    "intent": "Contato inicial.",
+    "summary": "Conversa inicial de suporte/atendimento.",
+    "intent": "Obter ajuda ou informações sobre os sistemas do Marcelo.",
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782837091.4681993
+    "last_interaction": 1782954734.9015408
   },
   "51909142528012@lid": {
     "name": "Contato 51909142528012",
@@ -333,7 +333,7 @@
     "intent": "Contato inicial.",
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782954732.9214928
+    "last_interaction": 1782837083.070404
   },
   "109676586860605@lid": {
     "name": "Contato 109676586860605",
@@ -365,7 +365,7 @@
     "intent": "Contato inicial.",
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782837085.0154965
+    "last_interaction": 1782954734.1893616
   },
   "15234399998020@lid": {
     "name": "Contato 15234399998020",
