@@ -289,19 +289,19 @@
   },
   "85341050564617@lid": {
     "name": "Contato 85341050564617",
-    "relationship": "Cliente",
+    "relationship": "Amigo",
     "manual_relationship": null,
     "notes": null,
     "product": null,
-    "tone": "polido e profissional",
-    "nickname": null,
+    "tone": "informal e amigável",
+    "nickname": "Marcos",
     "pet_name": null,
-    "frequent_greeting": null,
-    "summary": "Conversa inicial de suporte/atendimento.",
-    "intent": "Obter ajuda ou informações sobre os sistemas do Marcelo.",
+    "frequent_greeting": "Bom dia",
+    "summary": "Discussão sobre desenvolvimento de software, integração de sistemas com IA e estratégias de marketing para empresas.",
+    "intent": "Discutir implementação de agente de IA e restrições de acesso para funcionários.",
     "frequency": "esporádica",
-    "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782954734.9015408
+    "guidelines": "Mantenha o tom informal e profissional, focado no desenvolvimento do projeto e na viabilidade técnica das integrações discutidas.",
+    "last_interaction": 1782954830.8648312
   },
   "51909142528012@lid": {
     "name": "Contato 51909142528012",
@@ -782,21 +782,5 @@
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
     "last_interaction": 1782954744.6788633
-  },
-  "209302665085150@lid": {
-    "name": "Contato 209302665085150",
-    "relationship": "Cliente",
-    "manual_relationship": null,
-    "notes": null,
-    "product": null,
-    "tone": "polido e profissional",
-    "nickname": null,
-    "pet_name": null,
-    "frequent_greeting": null,
-    "summary": "Conversa muito curta.",
-    "intent": "Contato inicial.",
-    "frequency": "esporádica",
-    "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782954829.6275442
   }
 }
