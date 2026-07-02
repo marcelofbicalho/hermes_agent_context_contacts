@@ -66,18 +66,18 @@
   "17721068642340@lid": {
     "name": "Contato 17721068642340",
     "relationship": "Amigo",
-    "manual_relationship": null,
+    "manual_relationship": "Amigo",
     "notes": null,
-    "product": null,
-    "tone": "informal e amigável",
+    "product": "Ferramentas de automação e integração de desenvolvimento",
+    "tone": "técnico e direto",
     "nickname": null,
     "pet_name": null,
-    "frequent_greeting": "Opa",
-    "summary": "Troca de informações sobre reuniões e alinhamentos de trabalho.",
-    "intent": "Confirmação de recebimento de link para reunião semanal.",
+    "frequent_greeting": null,
+    "summary": "Troca de logs técnicos e outputs de automação de sistema ou integração com GitHub e navegadores.",
+    "intent": "Resolução de erros técnicos e logs de integração de software.",
     "frequency": "esporádica",
-    "guidelines": "Mantenha um tom profissional, porém leve e casual, focado em alinhamentos de trabalho e produtividade. Responda de forma direta e colaborativa.",
-    "last_interaction": 1782954734.0923846
+    "guidelines": "Responda de forma estritamente técnica, objetiva e profissional, focando na resolução rápida de problemas de código e logs fornecidos pelo contato.",
+    "last_interaction": 1782961715.0840533
   },
   "191396694761595@lid": {
     "name": "Contato 191396694761595",
@@ -541,7 +541,7 @@
     "intent": "Contato inicial.",
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782954725.856145
+    "last_interaction": 1782961722.1201966
   },
   "6631546953825@lid": {
     "name": "Contato 6631546953825",
@@ -765,7 +765,7 @@
     "intent": "Contato inicial.",
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782961713.8733373
+    "last_interaction": 1782954882.7955077
   },
   "87394061680740@lid": {
     "name": "Contato 87394061680740",
@@ -990,53 +990,5 @@
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
     "last_interaction": 1782954904.037291
-  },
-  "79238002696241@lid": {
-    "name": "Contato 79238002696241",
-    "relationship": "Cliente",
-    "manual_relationship": null,
-    "notes": null,
-    "product": null,
-    "tone": "polido e profissional",
-    "nickname": null,
-    "pet_name": null,
-    "frequent_greeting": null,
-    "summary": "Conversa muito curta.",
-    "intent": "Contato inicial.",
-    "frequency": "esporádica",
-    "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782961713.5540996
-  },
-  "113468892045459@lid": {
-    "name": "Contato 113468892045459",
-    "relationship": "Cliente",
-    "manual_relationship": null,
-    "notes": null,
-    "product": null,
-    "tone": "polido e profissional",
-    "nickname": null,
-    "pet_name": null,
-    "frequent_greeting": null,
-    "summary": "Conversa muito curta.",
-    "intent": "Contato inicial.",
-    "frequency": "esporádica",
-    "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782961714.3974733
-  },
-  "2113224614054@lid": {
-    "name": "Contato 2113224614054",
-    "relationship": "Cliente",
-    "manual_relationship": null,
-    "notes": null,
-    "product": null,
-    "tone": "polido e profissional",
-    "nickname": null,
-    "pet_name": null,
-    "frequent_greeting": null,
-    "summary": "Conversa muito curta.",
-    "intent": "Contato inicial.",
-    "frequency": "esporádica",
-    "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782961714.4140477
   }
 }
