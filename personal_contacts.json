@@ -285,7 +285,7 @@
     "intent": "Contato inicial.",
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782837016.474055
+    "last_interaction": 1782954836.0500112
   },
   "85341050564617@lid": {
     "name": "Contato 85341050564617",
@@ -797,6 +797,6 @@
     "intent": "Contato inicial.",
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782954831.869597
+    "last_interaction": 1782954831.8734622
   }
 }
