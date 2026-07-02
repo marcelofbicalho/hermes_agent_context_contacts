@@ -297,11 +297,11 @@
     "nickname": null,
     "pet_name": null,
     "frequent_greeting": null,
-    "summary": "Conversa inicial de suporte/atendimento.",
-    "intent": "Obter ajuda ou informações sobre os sistemas do Marcelo.",
+    "summary": "Conversa muito curta.",
+    "intent": "Contato inicial.",
     "frequency": "esporádica",
     "guidelines": "Responda de forma prestativa.",
-    "last_interaction": 1782954734.9015408
+    "last_interaction": 1782837091.4681993
   },
   "51909142528012@lid": {
     "name": "Contato 51909142528012",
